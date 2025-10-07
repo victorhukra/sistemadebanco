@@ -1,1 +1,1 @@
-sistema simples que simula um banco digital
+Sistema simples que simula um banco digital.
